@@ -1,2 +1,2 @@
-# CodeBlocks
-Programas en C++ realizados
+# CodeBlocks_Basico
+Programas en C++ realizados durante mis cursos
